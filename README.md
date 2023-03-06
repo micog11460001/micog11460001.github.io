@@ -1,7 +1,7 @@
 <h1 align="center"> Michael Chang</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/125838977/223021202-bec71f17-7423-4eb1-b0d8-769cf12acd5b.jpeg">
+  <img alt="Light" src="https://user-images.githubusercontent.com/125838977/223021202-bec71f17-7423-4eb1-b0d8-769cf12acd5b.jpeg" width="30%">
 </p>
 
 ## Education
@@ -78,14 +78,14 @@
 - English 
     - (Native)
 - Chinese 
-    - (Proficient)
+    - (Proficient Speaking,Listening)
 - Korean 
-    - (Elementary Level, Conversation Wise + Reading and Writing)
+    - Studied in [Yonsei University University](https://www.yonsei.ac.kr/en_sc/index.jsp) (Level 4)
 - Japanese 
-    - (Elementary Level, Conversation Wise)
+    - (Elementary Level, Conversation, Listening)
 
 ## Hobbies and Interesests
 ### Hobbies
-- Travelling, cooking, learning new things in life
+- Travelling, Cooking, Learning, Exercise
 ### Interests
-- Languages, socialising
+- Languages, Socialising
