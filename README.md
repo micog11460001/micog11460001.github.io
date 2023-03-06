@@ -25,12 +25,13 @@
     -   Chef
     
 <p align="center">
-<img src="https://user-images.githubusercontent.com/125838977/223031216-bce9cd28-d50e-42d6-8ef5-6388530008ad.jpeg">
+<img src="https://user-images.githubusercontent.com/125838977/223033792-47624665-7f40-4cb1-bda1-9a925231cb53.jpeg">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/125838977/223031355-3662476a-baee-4a28-a485-c591b1ea4809.jpeg">
+<img src="https://user-images.githubusercontent.com/125838977/223033783-4d44ee3d-ee98-4f0e-beaf-d861ccd09a91.jpeg">
 </p>
+
 
 - 2021, [MEDI Maison de Farmer, Nagoya, Japan](https://medi.nagoya/restaurant/)
     -   Chef
@@ -47,9 +48,7 @@
     -   Chef
     
 <p align="center">
-<img src="https://user-images.githubusercontent.com/125838977/223032205-1b66cc55-81ee-4c28-929a-6111df6f38d3.jpeg">
-</p>
-![IMG_1332](https://user-images.githubusercontent.com/125838977/223032205-1b66cc55-81ee-4c28-929a-6111df6f38d3.jpeg)
+<img src="https://user-images.githubusercontent.com/125838977/223033331-333ef945-5d06-45a4-a847-0fc928f94444.jpeg">
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/125838977/223032102-f3eaffbd-b504-4582-bf66-d9f35362ee1e.jpeg">
@@ -59,7 +58,7 @@
     -   Chef
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/125838977/223031216-bce9cd28-d50e-42d6-8ef5-6388530008ad.jpeg">
+<img src="https://user-images.githubusercontent.com/125838977/223032205-1b66cc55-81ee-4c28-929a-6111df6f38d3.jpeg">
 </p>
 
 <p align="center">
