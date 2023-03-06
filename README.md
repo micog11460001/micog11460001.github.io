@@ -1,5 +1,7 @@
 # Michael Chang
 
+![1516511498074](https://user-images.githubusercontent.com/125838977/223001796-eaae03af-89fa-4be3-b739-e8a8b205c6be.jpeg)
+
 ## Education
 
 - 2023, Tunghai University, Taichung, Taiwan
