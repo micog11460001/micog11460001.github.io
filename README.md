@@ -5,8 +5,8 @@
 </p>
 
 ## Education
-
-- 2023, [Tunghai University, Taichung, Taiwan] (https://www.thu.edu.tw/)
+[Tunghai University, Taichung, Taiwan](http://itm.nchu.edu.tw/)
+- 2023, [Tunghai University, Taichung, Taiwan](https://www.thu.edu.tw/)
     -   Masters in Global Masters of Business Administration
 - 2017, William Angliss Intitute, Melbourne Australia
     - Certificate III Commercial Cookery
