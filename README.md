@@ -1,5 +1,3 @@
-![Header](./[https://user-images.githubusercontent.com/125838977/223026892-56757d12-7ffa-44da-97e6-f7c84666ff0c.png])
-
 <h1 align="center"> Michael Chang</h1>
 
 <p align="center">
@@ -26,11 +24,13 @@
     
 <p align="center">
 <img src="https://user-images.githubusercontent.com/125838977/223033792-47624665-7f40-4cb1-bda1-9a925231cb53.jpeg">
-</p>
+</p> 
+
+<img src="https://user-images.githubusercontent.com/125838977/223033792-47624665-7f40-4cb1-bda1-9a925231cb53.jpeg" width="150" height="280">
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/125838977/223033783-4d44ee3d-ee98-4f0e-beaf-d861ccd09a91.jpeg">
-</p>
+</p> 
 
 
 - 2021, [MEDI Maison de Farmer, Nagoya, Japan](https://medi.nagoya/restaurant/)
