@@ -1,6 +1,7 @@
 # Michael Chang
-![1516511498074](https://user-images.githubusercontent.com/125838977/223001796-eaae03af-89fa-4be3-b739-e8a8b205c6be.jpeg)
-
+<p align="center">
+//![1516511498074](https://user-images.githubusercontent.com/125838977/223021202-bec71f17-7423-4eb1-b0d8-769cf12acd5b.jpeg)
+</p>
 
 ## Education
 
@@ -38,7 +39,6 @@
 - House Vice Captain for Carey Baptist Grammar School 
 
 ## Language Skills
-
 - English 
     - (Native)
 - Chinese 
@@ -51,6 +51,5 @@
 ## Hobbies and Interesests
 ### Hobbies
 - Travelling, cooking, learning new things in life
-
 ### Interests
 - Languages, socialising
