@@ -35,6 +35,16 @@
 - Joined Melbounre University Taiwanese Association and volunteered as a staff for a concert
 - House Vice Captain for Carey Baptist Grammar School 
 
+## Language Skills
+- English 
+    - (Native)
+- Chinese 
+    - (Proficient)
+- Korean 
+    - (Elementary Level, Conversation Wise + Reading and Writing)
+- Japanese 
+    - (Elementary Level, Conversation Wise)
+
 ## Hobbies and Interesests
 # Hobbies
 - Travelling, cooking, learning new things in life
