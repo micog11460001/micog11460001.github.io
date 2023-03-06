@@ -1,6 +1,6 @@
 # Michael Chang
 <p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/125838977/223021202-bec71f17-7423-4eb1-b0d8-769cf12acd5b.jpeg">
+<img src="https://user-images.githubusercontent.com/125838977/223021202-bec71f17-7423-4eb1-b0d8-769cf12acd5b.jpeg">
 </p>
 
 ## Education
