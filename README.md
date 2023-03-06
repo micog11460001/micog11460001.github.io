@@ -38,6 +38,7 @@
 - House Vice Captain for Carey Baptist Grammar School 
 
 ## Language Skills
+
 - English 
     - (Native)
 - Chinese 
