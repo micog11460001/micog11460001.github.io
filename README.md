@@ -5,29 +5,29 @@
 </p>
 
 ## Education
-[Tunghai University, Taichung, Taiwan](http://itm.nchu.edu.tw/)
+
 - 2023, [Tunghai University, Taichung, Taiwan](https://www.thu.edu.tw/)
     -   Masters in Global Masters of Business Administration
-- 2017, William Angliss Intitute, Melbourne Australia
+- 2017, [William Angliss Intitute, Melbourne Australia](https://www.angliss.edu.au/)
     - Certificate III Commercial Cookery
-- 2015, Yonsei University University, Seoul, Korea
+- 2015, [Yonsei University University, Seoul, Korea](https://www.yonsei.ac.kr/en_sc/index.jsp)
     - Level IV Korean Language
-- 2013, RMIT University, Melbourne, Australia
+- 2013, [RMIT University, Melbourne, Australia](https://www.rmit.edu.au/)
     - Bachelors in Science (Food Technology and Nutrition)
-- 2010, Carey Baptist Grammar School, Melbourne, Australia
+- 2010, [Carey Baptist Grammar School, Melbourne, Australia](https://www.carey.com.au/)
     -   Victorian Certificate of Education
 
 ## Work Experience 
 
-- 2022, Dew Chef's Wine and Gourmet, Taichung, Taiwan
+- 2022, [Dew Chef's Wine and Gourmet, Taichung, Taiwan](https://dew.com.tw/)
     -   Chef
-- 2021, MEDI Maison de Farmer, Nagoya, Japan
+- 2021, [MEDI Maison de Farmer, Nagoya, Japan](https://medi.nagoya/restaurant/)
     -   Chef
-- 2019, The Penny Drop, Melbourne, Australia
+- 2019, [The Penny Drop, Melbourne, Australia](http://www.thepennydrop.com.au/)
     -   Chef
-- 2018, SARDI Cafe, Melbourne, Australia
+- 2018, [SARDI Cafe, Melbourne, Australia](https://www.sardi-cafe.com.au/pages/brunch-menu)
     -   Chef
-- 2018, The Atlantic Group, Melbourne, Australia
+- 2018, [The Atlantic Group, Melbourne, Australia](https://atlanticgroup.com.au/)
     -   Cook
 
 ## Co-curricular Activities
