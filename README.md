@@ -48,8 +48,8 @@
     - (Elementary Level, Conversation Wise)
 
 ## Hobbies and Interesests
-Hobbies
+# Hobbies
 - Travelling, cooking, learning new things in life
 
-Interests
+# Interests
 - Languages, socialising
