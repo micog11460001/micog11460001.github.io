@@ -23,14 +23,60 @@
 
 - 2022, [Dew Chef's Wine and Gourmet, Taichung, Taiwan](https://dew.com.tw/)
     -   Chef
+    
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223031216-bce9cd28-d50e-42d6-8ef5-6388530008ad.jpeg">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223031355-3662476a-baee-4a28-a485-c591b1ea4809.jpeg">
+</p>
+
 - 2021, [MEDI Maison de Farmer, Nagoya, Japan](https://medi.nagoya/restaurant/)
     -   Chef
+    
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223031216-bce9cd28-d50e-42d6-8ef5-6388530008ad.jpeg">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223031355-3662476a-baee-4a28-a485-c591b1ea4809.jpeg">
+</p>
+
 - 2019, [The Penny Drop, Melbourne, Australia](http://www.thepennydrop.com.au/)
     -   Chef
+    
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223032205-1b66cc55-81ee-4c28-929a-6111df6f38d3.jpeg">
+</p>
+![IMG_1332](https://user-images.githubusercontent.com/125838977/223032205-1b66cc55-81ee-4c28-929a-6111df6f38d3.jpeg)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223032102-f3eaffbd-b504-4582-bf66-d9f35362ee1e.jpeg">
+</p>
+
 - 2018, [SARDI Cafe, Melbourne, Australia](https://www.sardi-cafe.com.au/pages/brunch-menu)
     -   Chef
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223031216-bce9cd28-d50e-42d6-8ef5-6388530008ad.jpeg">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223032495-331062e2-1ea7-4ca4-96a4-ffc3c59dbf64.jpeg">
+</p>
+
 - 2018, [The Atlantic Group, Melbourne, Australia](https://atlanticgroup.com.au/)
     -   Cook
+ 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223032453-5616e787-ee20-49d4-b742-243175cebcbb.jpeg">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/125838977/223032622-35059420-c945-4dc6-9553-c4b5418e173f.jpeg">
+</p>
+
 
 ## Co-curricular Activities
 - Presented and hosted a welcome ceremony for professors from University of Rhode Island as part of the GMBA course
