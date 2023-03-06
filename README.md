@@ -1,4 +1,5 @@
-![Header]([https://user-images.githubusercontent.com/125838977/223026892-56757d12-7ffa-44da-97e6-f7c84666ff0c.jpeg])
+![Header](./[https://user-images.githubusercontent.com/125838977/223026892-56757d12-7ffa-44da-97e6-f7c84666ff0c.jpeg])
+
 <h1 align="center"> Michael Chang</h1>
 
 <p align="center">
