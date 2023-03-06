@@ -84,7 +84,7 @@
 - Japanese 
     - (Elementary Level, Conversation, Listening)
 
-## Hobbies and Interesests
+## Hobbies and Interests 
 ### Hobbies
 - Travelling, Cooking, Learning, Exercise
 ### Interests
