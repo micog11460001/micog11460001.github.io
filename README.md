@@ -66,11 +66,11 @@
 </p>
 
 ## Co-curricular Activities
-- Presented and hosted a welcome ceremony for professors from University of Rhode Island as part of the GMBA course
-- Had a meeting with AACSB - MBA members from other coutnries
-- Appeared twice on Youtube for Dew Chef's Wine and Gourmet work
+- Presented and hosted a welcome ceremony for professors from [University of Rhode Island](https://www.uri.edu/) as part of the GMBA course
+- Had a meeting with [AACSB - MBA members](https://www.aacsb.edu/) from other coutnries
+- Appeared twice on Youtube for Dew Chef's Wine and Gourmet work [1.](https://www.youtube.com/watch?v=Y-i8gLDh1ug&ab_channel=%E7%91%9E%E7%8E%B2%E5%A7%90%E9%86%AB%E8%97%A5%E7%BE%8E%E9%A3%9F%E8%A8%98%E8%80%85%E7%8E%8B%E7%91%9E%E7%8E%B2) [2.](https://www.youtube.com/watch?v=Uz8vKWJOgv8&ab_channel=%E5%A3%B9%E5%8A%A0%E5%A3%B9)
 - Participated in a cooking competition within work at MEDI
-- Volunteered for Good Food and Wine Show as a student cook as part of William Angliss Insitiute
+- Volunteered for [Good Food and Wine Show](https://goodfoodshow.com.au/melbourne/) as a student cook as part of William Angliss Insitiute
 - Joined Melbounre University Taiwanese Association and volunteered as a staff for a concert
 - House Vice Captain for Carey Baptist Grammar School 
 
