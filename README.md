@@ -2,7 +2,7 @@
 <h1 align="center"> Michael Chang</h1>
 
 <p align="center">
-  <img alt="Light" src="https://user-images.githubusercontent.com/125838977/223021202-bec71f17-7423-4eb1-b0d8-769cf12acd5b.jpeg" width="30%">
+  <img alt="Light" src="https://user-images.githubusercontent.com/125838977/224445438-366008b0-574f-4f76-8adc-194165ef73b8.jpg" width="30%">
 </p>
 
 ## Education
